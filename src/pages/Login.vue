@@ -5,7 +5,7 @@
       <img src="../assets/logo.png" ratio="1" style="width: 200px"/>
 
       <q-card-section>
-        <div class="text-h5 q-pt-none">Aprendendo QUASAR</div>
+        <div class="text-h5 q-pt-none">Aprendendo-QUASAR</div>
       </q-card-section>
 
       <q-card-section class="q-pt-none full-width">
